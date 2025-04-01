@@ -1,0 +1,14 @@
+D:\FolderORG\FolderORG\bin\Debug\net8.0\FolderORG.exe
+D:\FolderORG\FolderORG\bin\Debug\net8.0\FolderORG.deps.json
+D:\FolderORG\FolderORG\bin\Debug\net8.0\FolderORG.runtimeconfig.json
+D:\FolderORG\FolderORG\bin\Debug\net8.0\FolderORG.dll
+D:\FolderORG\FolderORG\bin\Debug\net8.0\FolderORG.pdb
+D:\FolderORG\FolderORG\obj\Debug\net8.0\FolderORG.GeneratedMSBuildEditorConfig.editorconfig
+D:\FolderORG\FolderORG\obj\Debug\net8.0\FolderORG.AssemblyInfoInputs.cache
+D:\FolderORG\FolderORG\obj\Debug\net8.0\FolderORG.AssemblyInfo.cs
+D:\FolderORG\FolderORG\obj\Debug\net8.0\FolderORG.csproj.CoreCompileInputs.cache
+D:\FolderORG\FolderORG\obj\Debug\net8.0\FolderORG.dll
+D:\FolderORG\FolderORG\obj\Debug\net8.0\refint\FolderORG.dll
+D:\FolderORG\FolderORG\obj\Debug\net8.0\FolderORG.pdb
+D:\FolderORG\FolderORG\obj\Debug\net8.0\FolderORG.genruntimeconfig.cache
+D:\FolderORG\FolderORG\obj\Debug\net8.0\ref\FolderORG.dll
